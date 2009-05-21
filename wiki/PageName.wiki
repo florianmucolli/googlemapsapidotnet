@@ -1,11 +1,2 @@
-= How To create a simple Google map =
-
-Add your content here.
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+= Adding a Google Map Control to your web page =
+== Google Map Control Properties ==
