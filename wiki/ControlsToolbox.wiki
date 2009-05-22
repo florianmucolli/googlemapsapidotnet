@@ -1,9 +1,19 @@
-= Введение=
-Google Maps API Controls allow you to 
+{{{
+[assembly: AssemblyTitle("GoogleMapsControl")]
+[assembly: AssemblyDescription("")]
+[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyCompany("velux")]
+[assembly: AssemblyProduct("GoogleMapsControl")]
+[assembly: AssemblyCopyright("Copyright © velux 2009")]
+[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCulture("")]
 
-= Details =
+// Setting ComVisible to false makes the types in this assembly not visible 
+// to COM components.  If you need to access a type in this assembly from 
+// COM, set the ComVisible attribute to true on that type.
+[assembly: ComVisible(false)]
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+// The following GUID is for the ID of the typelib if this project is exposed to COM
+[assembly: Guid("0fe5bd5a-8ef8-4e09-95c2-c204ce2c17b6")]
+
+}}}
