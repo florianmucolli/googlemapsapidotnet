@@ -1,19 +1,8 @@
 {{{
-[assembly: AssemblyTitle("GoogleMapsControl")]
-[assembly: AssemblyDescription("")]
-[assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("velux")]
-[assembly: AssemblyProduct("GoogleMapsControl")]
-[assembly: AssemblyCopyright("Copyright © velux 2009")]
-[assembly: AssemblyTrademark("")]
-[assembly: AssemblyCulture("")]
-
-// Setting ComVisible to false makes the types in this assembly not visible 
-// to COM components.  If you need to access a type in this assembly from 
-// COM, set the ComVisible attribute to true on that type.
-[assembly: ComVisible(false)]
-
-// The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("0fe5bd5a-8ef8-4e09-95c2-c204ce2c17b6")]
+         <asp:GoogleMap ID="GoogleMap1"  runat="server" 
+            GoogleApiKey="ABQIAAAAMP_ufJkgmuM26bmq-X6glxRI4jqlqSfULM1UiwtotWUSUjqKUhRGe5jJ3T1i2fi0j2pKMT7G85tnrQ" 
+            Version="2.x" Width="440" Height="500" EnableClientCallBacks="True" 
+            EnableContinuousZoom="True" EnableScrollWheelZoom="True" 
+            onmoveend="GoogleMap1_MoveEnd" />
 
 }}}
