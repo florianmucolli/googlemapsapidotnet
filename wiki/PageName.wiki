@@ -1,3 +1,4 @@
+#labels Featured
 = Adding a Google Map Control to your web page =
 == Google Map Control Properties ==
 {{{
