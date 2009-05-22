@@ -1,8 +1,0 @@
-#labels Featured
-= Adding a Google Map Control to your web page =
-== Google Map Control Properties ==
-{{{
-GoogleMap GoogleMapControl1 = new GoogleMap();
-GoogleMapControl1.Width = 500;
-GoogleMapControl1.Height = 400;
-}}}
