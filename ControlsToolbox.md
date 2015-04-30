@@ -1,0 +1,9 @@
+
+```
+         <asp:GoogleMap ID="GoogleMap1"  runat="server" 
+            GoogleApiKey="ABQIAAAAMP_ufJkgmuM26bmq-X6glxRI4jqlqSfULM1UiwtotWUSUjqKUhRGe5jJ3T1i2fi0j2pKMT7G85tnrQ" 
+            Version="2.x" Width="440" Height="500" EnableClientCallBacks="True" 
+            EnableContinuousZoom="True" EnableScrollWheelZoom="True" 
+            onmoveend="GoogleMap1_MoveEnd" />
+
+```
